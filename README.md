@@ -13,3 +13,15 @@ This repository contains project on Transfer Learning for NLP with Tensorflow Hu
   
  ## Visualisation of model performance
 - The performance metrics of model are visualised using `TensorBoard`.
+
+- ***Accuracy curves***
+![alt text](https://github.com/kvarun07/transfer-learning-NLP/blob/main/assets/model_accuracy_plot.png)
+
+- ***Accuracy: TensorBoard***
+![alt text](https://github.com/kvarun07/transfer-learning-NLP/blob/main/assets/epoch_accuracy_curves.png)
+
+- ***Loss: TensorBoard***
+![alt text](https://github.com/kvarun07/transfer-learning-NLP/blob/main/assets/epoch_loss_curves.png)
+
+## Inference
+- Highest accuracy is obtained when the model is trained with [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder-large/5) available on `TensorFlow Hub`.
