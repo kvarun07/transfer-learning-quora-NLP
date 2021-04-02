@@ -1,4 +1,4 @@
-# transfer-learning-NLP
+# transfer-learning-quora-NLP
 This repository contains project on Transfer Learning for NLP with Tensorflow Hub that I made as a part of an online course on Coursera.
 
 ## Introduction
